@@ -11,7 +11,7 @@
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<Selenium.version>4.13.0</Selenium.version>
-		<WebDriverManager>5.0.3</WebDriverManager>
+		<WebDriverManager>5.5.3</WebDriverManager>
 		<Cucumber.version>7.14.0</Cucumber.version>
 	</properties>
 	
